@@ -1,8 +1,10 @@
 <!-- Profil GitHub README Start -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FF6C37&width=435&lines=Hello+World!+%F0%9F%91%8B;I%27m+Muhammad%20Hidayat;Full-Stack+Dev+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Tech+Enthusiast+%F0%9F%9A%80%22%20alt=%22Typing%20Animation" />
 </p>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FF6C37&width=435&lines=Hello+World!+%F0%9F%91%8B;I%27m+Muhammad%20Hidayat;Full-Stack+Dev+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Tech+Enthusiast+%F0%9F%9A%80%22%20alt=%22Typing%20Animation" />
+</div>
 
 
 
