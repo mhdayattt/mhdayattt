@@ -3,22 +3,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
-<div style="text-align: center;">
-  <img 
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FF6C37&width=435&lines=Hello+World!+%F0%9F%91%8B;I%27m+Muhammad%20Hidayat;Full-Stack+Dev+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;" 
-    alt="Typing Animation"
-    style="display: block; margin: 0 auto; position: relative; left: 100px;"
-  />
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FF6C37&width=435&lines=Hello+World!+%F0%9F%91%8B;I%27m+Muhammad%20Hidayat;Full-Stack+Dev+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Tech+Enthusiast+%F0%9F%9A%80%22%20alt=%22Typing%20Animation" />
 </div>
 <br>
 <br>
 <br>
 <br>
 
-###About Me 👨‍💻
+### About Me 👨‍💻
 <br>
 
-<div class="about-me">
   <ul>
     <li>📚 Student at <strong>STMIK Adhi Guna Palu</strong></li>
     <li>💼 Interned at <strong>PT Telkom Akses</strong></li>
@@ -27,7 +22,6 @@
     <li>🚀 Currently learning: <code>TypeScript</code>, <code>Next.js</code>, <code>Tailwind CSS</code>, <code>Node.js</code>, <code>Go</code>, <code>Rust</code></li>
     <li>🎨 Skilled in designing with <strong>Canva</strong> for promotional materials, social media, and UI design</li>
   </ul>
-</div>
 
 
 <div style="text-align: center; margin-top: 30px;">
