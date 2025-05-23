@@ -11,7 +11,9 @@
 <br>
 <br>
 
-## About Me 👨‍💻
+### About Me 👨‍💻
+<br>
+
   <ul>
     <li>📚 Student at <strong>STMIK Adhi Guna Palu</strong></li>
     <li>💼 Interned at <strong>PT Telkom Akses</strong></li>
@@ -30,7 +32,7 @@
 
 ---
 
-## Programming Languages
+### Programming Languages
 <br>
 
 <p align="center">
@@ -66,7 +68,7 @@
 
 ----
 
-## Design Skills
+### Design Skills
 <br>
 
 <p align="center">
@@ -78,7 +80,7 @@
 
 ---
 
-## Social Media
+### Social Media
 <br>
 
 <p align="center">
@@ -112,7 +114,7 @@
 
 ---
 
-## Support Me
+### Support Me
 <br>
 
 <p align="left">
@@ -128,7 +130,7 @@
 
 ----
 
-## GitHub Statistics
+### GitHub Statistics
 <br>
 
 <p align="center">
