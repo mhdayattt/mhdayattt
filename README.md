@@ -49,7 +49,7 @@
   <img 
     src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FF6C37&width=435&lines=Hello+World!+%F0%9F%91%8B;I%27m+Muhammad%20Hidayat;Full-Stack+Dev+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;" 
     alt="Typing Animation"
-    style="display: block; margin: 0 auto; position: relative; left: 100px;"
+    style="display: block; margin: 0 auto; position: relative; right: 100px;"
   />
 </div>
 <br>
