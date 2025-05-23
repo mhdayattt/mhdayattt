@@ -1,45 +1,4 @@
 <!-- Profil GitHub README Start -->
-<style>
-  .section-title {
-    font-family: 'Segoe UI', sans-serif;
-    font-size: 28px;
-    font-weight: bold;
-    color: #333;
-    background-color: #f7f7f7;
-    border-left: 8px solid #4f46e5;
-    padding: 12px 16px;
-    margin-top: 30px;
-    border-radius: 6px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-    display: flex;
-    align-items: center;
-    gap: 12px;
-  }
-  .section-title span {
-    font-size: 30px;
-  }
-  .about-me {
-    font-family: 'Segoe UI', sans-serif;
-    font-size: 16px;
-    line-height: 1.7;
-    color: #333;
-    background: #f9f9f9;
-    padding: 20px 25px;
-    border-radius: 12px;
-    box-shadow: 0 3px 6px rgba(0,0,0,0.08);
-    max-width: 700px;
-  }
-  .about-me li {
-    margin-bottom: 10px;
-  }
-  .about-me code {
-    background-color: #eef;
-    padding: 2px 6px;
-    border-radius: 4px;
-    font-size: 15px;
-    color: #3b3b3b;
-  }
-</style>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
