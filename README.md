@@ -15,7 +15,7 @@
 <br>
 <br>
 
-<div class="section-title"><span>👨‍💻</span> About Me</div>
+###About Me 👨‍💻
 <br>
 
 <div class="about-me">
@@ -41,19 +41,7 @@
 
 ---
 
-<div style="font-family: 'Segoe UI', sans-serif;
-    font-size: 28px;
-    font-weight: bold;
-    color: #333;
-    background-color: #f7f7f7;
-    border-left: 8px solid #4f46e5;
-    padding: 12px 16px;
-    margin-top: 30px;
-    border-radius: 6px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-    display: flex;
-    align-items: center;
-    gap: 12px;"><span style="font-size: 30px;">🔧</span> Programming Languages</div>
+<div class="section-title"><span>🔧</span> Programming Languages</div>
 <br>
 
 <p align="center">
