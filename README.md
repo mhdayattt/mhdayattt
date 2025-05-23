@@ -11,9 +11,7 @@
 <br>
 <br>
 
-### About Me 👨‍💻
-<br>
-
+## About Me 👨‍💻
   <ul>
     <li>📚 Student at <strong>STMIK Adhi Guna Palu</strong></li>
     <li>💼 Interned at <strong>PT Telkom Akses</strong></li>
@@ -27,15 +25,12 @@
 <div style="text-align: center; margin-top: 30px;">
   <img 
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ0dGJmZ2R5bDZ1d3R4bGZ6d2VqZ3R4eGZ1bHZ6dGZqZGVlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" 
-    alt="Coding Animation"
-    width="280"
-    style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);"
-  >
+    alt="Coding Animation" />
 </div>
 
 ---
 
-<div class="section-title"><span>🔧</span> Programming Languages</div>
+## Programming Languages
 <br>
 
 <p align="center">
@@ -71,7 +66,7 @@
 
 ----
 
-<div class="section-title"><span>🎨</span> Design Skills</div>
+## Design Skills
 <br>
 
 <p align="center">
@@ -83,7 +78,7 @@
 
 ---
 
-<div class="section-title"><span>🌐</span> Social Media</div>
+## Social Media
 <br>
 
 <p align="center">
@@ -117,7 +112,7 @@
 
 ---
 
-<div class="section-title"><span>☕</span> Support Me</div>
+## Support Me
 <br>
 
 <p align="left">
@@ -133,7 +128,7 @@
 
 ----
 
-<div class="section-title"><span>📊</span> GitHub Statistics</div>
+## GitHub Statistics
 <br>
 
 <p align="center">
